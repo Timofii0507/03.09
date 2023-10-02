@@ -1,8 +1,6 @@
 try:
-    print('"Anyone  who')
-    print('stops')
-    print('learning is old,')
-    print('whether at twenty or eighty"')
-    print('Henry Ford')
+    print('Nothing')
+    print('will work')
+    print('unless you do')
 except Exception as ex:
     print(ex)
